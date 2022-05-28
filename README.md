@@ -4,7 +4,7 @@
 ## About
 This website was created as an example of the services I could provide to a pet grooming company. i built a single paged static site to showcase my skills
 This repository contains all the files for the site. The current designer and developer of the project is Mduduzi Dube.
-View project [here](https://soulcitycitygrooming.netlify.app/).
+View project [here](https://soulcitygrooming.netlify.app/).
 
 
 ## Details of Application
